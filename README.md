@@ -61,3 +61,8 @@ This initiative presents a detailed solution for extracting, transforming, and l
    ```bash
     open http://localhost:8080
    ```
+
+
+![image](https://github.com/aravinddudam/Reddit-Data-Extraction-Transformation-and-Analysis/assets/122600985/bc47e0bd-0cae-48c2-91b4-27cdc5fc7851)
+
+   
